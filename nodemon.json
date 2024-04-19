@@ -1,0 +1,6 @@
+{
+  "events": {
+    "restart": "echo ========[ Servidor REINICIADO! ]========",
+    "start": "echo ========[ Servidor INICIADO! ]========"
+  }
+}
